@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h1{
+    /* background-color: cadetblue;
+    margin: 0px;
+    border: 10px solid;
+    padding: 10px; */
+}
+
+footer{
+    color: red;
+    /* background-color: gray; */
+}
